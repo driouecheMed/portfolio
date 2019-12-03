@@ -270,9 +270,11 @@ h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskil
 .comp h3{
     text-align: center;
     margin-top: 20px;
+	font-family:'Arial';
 }
 .comp h5{
     text-align: center;
+	font-family:'Arial';
 }
 /*-- //competition --*/
 /*-- gallery --*/
