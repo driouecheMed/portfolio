@@ -1,5 +1,8 @@
-# Projects
+---
+layout: default
+title: Projects
+---
 
-### Android App
+# Android App
 android app
 
