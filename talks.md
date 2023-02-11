@@ -22,6 +22,6 @@ TEMPLATE
     width="200" height="250" align="right">
 
 - A Hackathon where IEEE members present their innovative ideas.
-- Deliver a talk about the Business model canvas.
+- Deliver a talk about the Business Model Canvas.
 - Mentor teams before their pitch.
 

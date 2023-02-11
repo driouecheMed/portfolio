@@ -35,14 +35,14 @@ An Android mobile app that provides to users to read, save and share positive af
 
 An Android mobile app that helps developers to prepare for their tech interviews.
 
-*Keywords: Android, Kotlin, Firebase*
+*Keywords: Android, Kotlin, SQLite, Firebase*
 
 [Get it on on Google Play](https://play.google.com/store/apps/details?id=com.elife.hackertest)
 
 
 ## CI 101
 
-A Continuous integration (CI) workflow that block Pull Requests from merging if the requirements (unit tests and lint) aren't met.
+A Continuous integration (CI) workflow that block Pull Requests from merging if the requirements *(unit tests and lint)* aren't met.
 
 *Keywords: Python, YAML, GitHub Actions*
 
