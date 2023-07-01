@@ -40,8 +40,6 @@ A ChatGPT Parody app for Android, that simulate a conversation with a cat.
 
 *Keywords: Android, Kotlin*
 
-Milestones: downloads, etc..
-
 [Get it on on Google Play](https://play.google.com/store/apps/details?id=com.elife.catgpt)
 
 
