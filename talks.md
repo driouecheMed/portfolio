@@ -18,7 +18,7 @@ TEMPLATE
 
 ## Workshop: The Art of Crafting Clean Software Code 
 
-<img alt='Speaker poster' src="/assets/clean_code_ieee_ensaf.jpeg"
+<img alt='Speaker poster' src="/portfolio/assets/clean_code_ieee_ensaf.jpeg"
     width="200" height="250" align="right">
 
 *4 March 2023, Fez*
@@ -36,7 +36,7 @@ TEMPLATE
 
 ## IEEE R8 Entrepreneurship Initiative
 
-<img alt='Speaker poster' src="/assets/r8_initiative_2021.jpeg"
+<img alt='Speaker poster' src="/portfolio/assets/r8_initiative_2021.jpeg"
     width="200" height="250" align="right">
 
 *27 November 2021, Fez*
