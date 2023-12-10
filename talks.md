@@ -7,7 +7,7 @@ TEMPLATE
 
 ## Event name
 
-<img alt='Speaker poster' src="/assets/image.jpeg"
+<img alt='Speaker poster' src="/portfolio/assets/image.jpeg"
     width="200" height="250" align="right">
 
 *Date, Place*
