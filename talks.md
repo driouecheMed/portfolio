@@ -30,9 +30,6 @@ TEMPLATE
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 ## Workshop: The Art of Crafting Clean Software Code 
 
