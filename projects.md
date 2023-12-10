@@ -28,7 +28,7 @@ An Android mobile app that provides to users to read, save and share positive af
 
 *Keywords: Android, Java, SQLite, RxJava2, Firebase*
 
-**Milestones: 2K+ downloads**
+**Milestones: 7K+ downloads**
 
 [Get it on on Google Play](https://play.google.com/store/apps/details?id=com.elife.flourvy)
 
